@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553253378 source:c:\users\samsung\desktop\experiment2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
